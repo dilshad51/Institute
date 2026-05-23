@@ -1,0 +1,1 @@
+// Write a program in C to print the odd series using while loop.

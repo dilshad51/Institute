@@ -1,0 +1,1 @@
+// Write a program in C to find the forward series of a given number and its sum.

@@ -1,0 +1,1 @@
+// Write a program in C to print 3 numbers and check the biggest and smallest.

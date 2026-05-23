@@ -1,0 +1,1 @@
+// Write a program in C to print the factor of a number using while loop.

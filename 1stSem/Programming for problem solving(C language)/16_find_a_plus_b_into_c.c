@@ -1,0 +1,1 @@
+// Write a program in C to find A + B * C, where A, B are int and C is float.

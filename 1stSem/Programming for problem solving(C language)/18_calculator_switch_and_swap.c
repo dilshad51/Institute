@@ -1,0 +1,1 @@
+// Write a program in C using switch case for calculator and swap the variables.

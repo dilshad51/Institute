@@ -1,0 +1,1 @@
+// Write a program in C to print 1D array using macro.

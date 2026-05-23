@@ -1,0 +1,1 @@
+// Write a program in C to print factorial of a number using while loop.

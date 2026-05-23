@@ -1,0 +1,9 @@
+// Write a program in C to print sum of two numbers.
+#include<stdio.h>
+int main(){
+    int a=5;
+    int b=10;
+    int c=a+b;
+    printf("Sum= %d",c);
+    return 0;
+}

@@ -1,0 +1,1 @@
+// Write a program in C to find out forward series using while loop.

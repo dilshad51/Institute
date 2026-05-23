@@ -1,0 +1,1 @@
+// Write a program in C to swap the variable value using third variable.

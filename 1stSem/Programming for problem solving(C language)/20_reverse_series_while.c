@@ -1,0 +1,1 @@
+// Write a program in C to find out reverse series using while loop.

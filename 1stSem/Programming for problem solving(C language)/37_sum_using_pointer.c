@@ -1,0 +1,1 @@
+// Write a program in C to print the summation of two variables using pointer.
