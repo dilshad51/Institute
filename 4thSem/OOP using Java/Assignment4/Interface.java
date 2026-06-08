@@ -1,3 +1,4 @@
+// WAP in java for interface
 interface Printable{
     void print();
 }

@@ -1,3 +1,4 @@
+// WAP in jav awhere a class is extending another class and implemtnting two interfaces
 // Super class
 class Animal {
     void eat() {
