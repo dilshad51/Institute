@@ -1,30 +1,42 @@
-interface Printable {
-    void print();
-}
-interface Showable {
-    void show();
-}
-class Person {
-    void displayPerson() {
-        System.out.println("This is the parent class");
+// Super class
+class Animal {
+    void eat() {
+        System.out.println("Animal is eating");
     }
 }
-class Student extends Person implements Printable, Showable {
 
-    public void print() {
-        System.out.println("Printing");
+// First interface
+interface Pet {
+    void play();
+}
+
+// Second interface
+interface Guard {
+    void protect();
+}
+
+// Child class extending Animal and implementing Pet & Guard
+class Dog extends Animal implements Pet, Guard {
+
+    // Implementing play() method
+    public void play() {
+        System.out.println("Dog is playing");
     }
-    public void show() {
-        System.out.println("Showing");
+
+    // Implementing protect() method
+    public void protect() {
+        System.out.println("Dog is protecting the house");
     }
 }
+
+// Main class
 public class MultipleInheritanceDemo {
     public static void main(String[] args) {
 
-        Student s = new Student();
+        Dog d = new Dog();
 
-        s.displayPerson(); // inherited from Person
-        s.print();         // from Printable
-        s.show();          // from Showable
+        d.eat();       // inherited from Animal
+        d.play();      // from Pet interface
+        d.protect();   // from Guard interface
     }
 }
