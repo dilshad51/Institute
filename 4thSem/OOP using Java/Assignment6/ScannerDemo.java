@@ -1,3 +1,8 @@
+//1. Write another program using the Scanner class to:
+
+// Read an integer, float, and string from the keyboard.
+// Display the entered values.
+// Perform basic arithmetic operations on the numeric inputs.
 import java.util.Scanner;
 
 public class ScannerDemo {
