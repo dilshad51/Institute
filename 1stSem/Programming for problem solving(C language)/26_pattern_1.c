@@ -1,15 +1,18 @@
-// // Write a program in C to print following pattern.
+// Write a program in C to print following pattern.
 // *
 // **
 // ***
 // ****
+// *****
 #include<stdio.h>
 int main(){
+    int n;
+    printf("Enter rows: ");
+    scanf("%d",&n);
 
-    for(int i=1;i<=4;i++){
-        for(int j=1;j<=i;j++){
+    for(int i=1;i<=n;i++){
+        for(int j=1;j<=i;j++)
             printf("*");
-        }
         printf("\n");
     }
 

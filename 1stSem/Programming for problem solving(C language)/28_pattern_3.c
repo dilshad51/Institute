@@ -5,9 +5,12 @@
 // ABCD
 #include<stdio.h>
 int main(){
+    int n;
+    printf("Enter rows: ");
+    scanf("%d",&n);
 
-    for(int i=1;i<=4;i++){
-        for(int j=1;j<=4-i;j++)
+    for(int i=1;i<=n;i++){
+        for(int j=1;j<=n-i;j++)
             printf(" ");
 
         for(char k='A';k<'A'+i;k++)
