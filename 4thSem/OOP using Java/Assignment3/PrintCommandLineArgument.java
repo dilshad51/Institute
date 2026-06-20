@@ -1,6 +1,6 @@
 // WAP in java to implement command line argument
 
-class PrintCommandLineArgument {
+public class PrintCommandLineArgument {
     public static void main(String[] args) {
         int count = args.length;
         System.out.println("The number of arguments is " + count);
