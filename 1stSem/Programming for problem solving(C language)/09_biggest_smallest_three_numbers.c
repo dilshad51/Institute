@@ -19,5 +19,5 @@ int main(){
     else
         printf("Smallest number: %d",c);
 
-     ;
+    return 0;
 }
