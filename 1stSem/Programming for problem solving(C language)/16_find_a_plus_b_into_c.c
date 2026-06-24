@@ -17,5 +17,5 @@ int main(){
 
     printf("Result: %.2f",result);
 
-     0;
+     ;
 }
