@@ -38,5 +38,5 @@ int main(){
     printf("\nAfter swapping: \n");
     printf("a=%d\nb=%d\n",a,b);
 
-     0;
+     ;
 }
