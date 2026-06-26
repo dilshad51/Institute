@@ -13,5 +13,5 @@ int main(){
         i++;
     }while(i<=n);
 
-    return 0;
+     0;
 }
