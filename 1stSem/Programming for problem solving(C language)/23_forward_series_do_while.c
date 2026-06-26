@@ -8,7 +8,7 @@ int main(){
 
     printf("Forward series: ");
 
-    do{
+    {
         printf("%d ",i);
         i++;
     }while(i<=n);
