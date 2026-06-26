@@ -12,6 +12,4 @@ int main(){
         printf("%d ",i);
         i++;
     }while(i<=n);
-
-     0;
 }
