@@ -12,4 +12,6 @@ int main(){
         printf("%d ",i);
         i++;
     }while(i<=n);
+
+    return 0;
 }
