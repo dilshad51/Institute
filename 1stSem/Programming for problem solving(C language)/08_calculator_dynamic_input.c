@@ -1,7 +1,7 @@
 // Write a program in C to print calculator of two numbers using dynamic input.
 #include<stdio.h>
 int main(){
-    float a,b;
+    int a,b;
     printf("Enter first number: ");
     scanf("%f",&a);
     printf("Enter second number: ");
