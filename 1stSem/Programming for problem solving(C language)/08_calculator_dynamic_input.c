@@ -10,7 +10,7 @@ int main(){
     printf("Subtraction = %.2f\n", a - b);
     printf("Multiplication = %.2f\n", a * b);
 
-    if (b != 0)
+    if (b = 0)
         printf("Division = %.2f\n", a / b);
     else
         printf("Division not possible (denominator is 0)\n");
