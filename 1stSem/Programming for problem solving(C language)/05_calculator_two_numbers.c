@@ -1,5 +1,5 @@
 // Write a program in C to print the calculator of two numbers.
-#include<stdio.h>
+#include<stdio.>
 int main(){
     int a=12;
     int b=7;
