@@ -1,5 +1,5 @@
 // Write a program in C to print the calculator of two numbers.
-#include<stdio.>
+#include<stdio.h>
 int main(){
     int a=12;
     int b=7;
@@ -8,5 +8,5 @@ int main(){
     printf("\tProduct=%d",a*b);
     printf("\tDivision=%d",a/b);
     printf("\tModulus=%d",a%b);
-     0;
+    return 0;
 }
