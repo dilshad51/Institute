@@ -8,5 +8,5 @@ int main(){
     printf("\tProduct=%d",a*b);
     printf("\tDivision=%d",a/b);
     printf("\tModulus=%d",a%b);
-    return 0;
+     0;
 }
