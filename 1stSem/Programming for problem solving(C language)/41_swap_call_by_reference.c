@@ -15,7 +15,7 @@ int main(){
     printf("Enter two numbers: ");
     scanf("%d%d",&a,&b);
 
-    swap(&a,&b);
+    swap(a,&b);
 
     printf("After swap:\n");
     printf("a=%d\tb=%d",a,b);
