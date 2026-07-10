@@ -5,7 +5,7 @@ using namespace std;
 class Example{
     public:
         Example(){
-            cout<<"Default Constructor called"
+            cout<<"Default Constructor called"<<endl;
         }
 };
 int main(){
